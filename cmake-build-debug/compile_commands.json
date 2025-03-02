@@ -1,0 +1,462 @@
+[
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\byte_stream.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\byte_stream.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\byte_stream.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\network_interface.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\network_interface.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\network_interface.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\router.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\router.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\router.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\stream_reassembler.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\stream_reassembler.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\stream_reassembler.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_connection.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_connection.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_connection.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\arp_message.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\arp_message.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\arp_message.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\ethernet_frame.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ethernet_frame.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ethernet_frame.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\ethernet_header.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ethernet_header.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ethernet_header.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\fd_adapter.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\fd_adapter.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\fd_adapter.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\ipv4_datagram.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ipv4_datagram.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ipv4_datagram.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\ipv4_header.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ipv4_header.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\ipv4_header.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tcp_header.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_header.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_header.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tcp_over_ip.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_over_ip.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_over_ip.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tcp_segment.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_segment.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_segment.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tcp_sponge_socket.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_sponge_socket.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_sponge_socket.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tcp_state.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_state.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tcp_state.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_helpers\\tuntap_adapter.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tuntap_adapter.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_helpers\\tuntap_adapter.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_receiver.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_receiver.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_receiver.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\tcp_sender.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_sender.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\tcp_sender.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\address.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\address.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\address.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\buffer.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\buffer.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\buffer.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\eventloop.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\eventloop.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\eventloop.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\file_descriptor.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\file_descriptor.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\file_descriptor.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\parser.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\parser.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\parser.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\socket.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\socket.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\socket.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\tun.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\tun.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\tun.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\util\\util.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\util.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\util\\util.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o libsponge\\CMakeFiles\\sponge.dir\\wrapping_integers.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\wrapping_integers.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\libsponge\\wrapping_integers.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\stream_copy.dir\\bidirectional_stream_copy.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\bidirectional_stream_copy.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\bidirectional_stream_copy.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\udp_tcpdump.dir\\udp_tcpdump.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\udp_tcpdump.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\udp_tcpdump.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tcp_native.dir\\tcp_native.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_native.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_native.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tun.dir\\tun.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tun.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tun.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tcp_udp.dir\\tcp_udp.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_udp.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_udp.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tcp_ipv4.dir\\tcp_ipv4.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_ipv4.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_ipv4.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tcp_ip_ethernet.dir\\tcp_ip_ethernet.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_ip_ethernet.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_ip_ethernet.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\webget.dir\\webget.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\webget.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\webget.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\tcp_benchmark.dir\\tcp_benchmark.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_benchmark.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\tcp_benchmark.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\network_simulator.dir\\network_simulator.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\network_simulator.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\network_simulator.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\lab7.dir\\lab7.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\lab7.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\lab7.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o apps\\CMakeFiles\\bouncer.dir\\bouncer.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\bouncer.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\apps\\bouncer.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\spongechecks.dir\\send_equivalence_checker.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_equivalence_checker.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_equivalence_checker.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\spongechecks.dir\\tcp_fsm_test_harness.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\tcp_fsm_test_harness.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\tcp_fsm_test_harness.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\spongechecks.dir\\byte_stream_test_harness.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_test_harness.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_test_harness.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\spongechecks.dir\\network_interface_test_harness.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\network_interface_test_harness.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\network_interface_test_harness.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\tcp_parser.dir\\tcp_parser.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\tcp_parser.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\tcp_parser.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\ipv4_parser.dir\\ipv4_parser.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\ipv4_parser.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\ipv4_parser.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_active_close.dir\\fsm_active_close.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_active_close.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_active_close.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_passive_close.dir\\fsm_passive_close.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_passive_close.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_passive_close.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_ack_rst_relaxed.dir\\fsm_ack_rst_relaxed.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_ack_rst_relaxed.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_ack_rst_relaxed.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_ack_rst_win_relaxed.dir\\fsm_ack_rst_win_relaxed.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_ack_rst_win_relaxed.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_ack_rst_win_relaxed.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_cap.dir\\fsm_stream_reassembler_cap.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_cap.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_cap.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_single.dir\\fsm_stream_reassembler_single.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_single.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_single.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_seq.dir\\fsm_stream_reassembler_seq.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_seq.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_seq.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_dup.dir\\fsm_stream_reassembler_dup.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_dup.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_dup.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_holes.dir\\fsm_stream_reassembler_holes.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_holes.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_holes.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_many.dir\\fsm_stream_reassembler_many.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_many.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_many.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_overlapping.dir\\fsm_stream_reassembler_overlapping.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_overlapping.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_overlapping.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_stream_reassembler_win.dir\\fsm_stream_reassembler_win.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_win.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_stream_reassembler_win.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_connect_relaxed.dir\\fsm_connect_relaxed.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_connect_relaxed.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_connect_relaxed.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_listen_relaxed.dir\\fsm_listen_relaxed.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_listen_relaxed.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_listen_relaxed.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_reorder.dir\\fsm_reorder.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_reorder.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_reorder.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_loopback.dir\\fsm_loopback.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_loopback.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_loopback.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_loopback_win.dir\\fsm_loopback_win.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_loopback_win.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_loopback_win.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_retx_relaxed.dir\\fsm_retx_relaxed.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_retx_relaxed.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_retx_relaxed.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_retx_win.dir\\fsm_retx_win.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_retx_win.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_retx_win.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\fsm_winsize.dir\\fsm_winsize.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_winsize.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\fsm_winsize.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\wrapping_integers_cmp.dir\\wrapping_integers_cmp.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_cmp.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_cmp.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\wrapping_integers_unwrap.dir\\wrapping_integers_unwrap.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_unwrap.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_unwrap.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\wrapping_integers_wrap.dir\\wrapping_integers_wrap.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_wrap.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_wrap.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\wrapping_integers_roundtrip.dir\\wrapping_integers_roundtrip.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_roundtrip.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\wrapping_integers_roundtrip.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_construction.dir\\byte_stream_construction.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_construction.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_construction.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_one_write.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_one_write.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_two_writes.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_two_writes.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_capacity.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_capacity.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_many_writes.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\byte_stream_many_writes.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_connect.dir\\recv_connect.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_connect.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_connect.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_transmit.dir\\recv_transmit.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_transmit.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_transmit.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_window.dir\\recv_window.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_window.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_window.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_reorder.dir\\recv_reorder.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_reorder.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_reorder.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_close.dir\\recv_close.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_close.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_close.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\recv_special.dir\\recv_special.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_special.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\recv_special.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_connect.dir\\send_connect.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_connect.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_connect.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_transmit.dir\\send_transmit.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_transmit.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_transmit.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_retx.dir\\send_retx.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_retx.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_retx.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_ack.dir\\send_ack.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_ack.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_ack.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_window.dir\\send_window.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_window.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_window.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_close.dir\\send_close.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_close.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_close.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\send_extra.dir\\send_extra.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_extra.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\send_extra.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o tests\\CMakeFiles\\net_interface.dir\\net_interface.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\net_interface.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\tests\\net_interface.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o doctests\\CMakeFiles\\address_dt.dir\\address_dt.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\address_dt.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\address_dt.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o doctests\\CMakeFiles\\parser_dt.dir\\parser_dt.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\parser_dt.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\parser_dt.cc"
+},
+{
+  "directory": "F:/Desktop/cossky/study/programs/c/2025-cs144-sponge/cmake-build-debug",
+  "command": "\"D:\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe\" -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/util -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge/tcp_helpers -IF:/Desktop/cossky/study/programs/c/2025-cs144-sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -g3 -O0 -fdiagnostics-color=always -std=gnu++17 -o doctests\\CMakeFiles\\socket_dt.dir\\socket_dt.cc.obj -c F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\socket_dt.cc",
+  "file": "F:\\Desktop\\cossky\\study\\programs\\c\\2025-cs144-sponge\\doctests\\socket_dt.cc"
+}
+]
